@@ -1,8 +1,6 @@
 # McCray Center for Community Research (MCCR)
 
-MCCR is a community research organization for people whose ongoing pain has been misattributed. That includes chronic physical illness, social pain, and the overlap between them. We serve people coming out of incarceration, housing instability, substance recovery, and displacement, through participatory research and transitional services.
-
-The goal is to build systems and infrastructure to accommodate the people at most risk to chronic illness and ailments.
+MCCR is a trauma-informed health technology and community research initiative focused on increasing self and community agency for people living with chronic illness, repeated trauma, and other high-stress life circumstances. We're building an interpretation layer that helps people understand complex behavioral, cognitive, and physiological signals so they can make more informed decisions about their health and recovery. By combining multimodal assessments with wearable data, MCCR generates explainable compatibility models for peer support, connecting people whose lived experiences, recovery patterns, and support styles are most likely to be mutually beneficial. In parallel, we're conducting AI-assisted research on health insurer privacy policies to examine how patient data flows through consent and third-party sharing, and how those systems shape patient agency for communities facing systemic barriers to care. Our long-term vision is to build community-governed infrastructure that combines trauma-informed care, explainable technology, and collective learning so people are active partners in understanding, improving, and governing the healthcare systems that affect them.
 
 ---
 
