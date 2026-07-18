@@ -17,24 +17,24 @@ Documentation
 
 ## Current Repository Structure
     mccr/
-    ├── docs/                   # Organization documentation and planning
-    │   ├── mission/            # Mission, vision, values
-    │   ├── planning/           # Strategy, roadmap, operational notes
-    │   └── partnerships/       # Grant language, outreach, collaboration docs
-    │
-    ├── research/               # Scientific and academic work
-    │   ├── framework/          # Referred pain hypothesis and theoretical grounding
-    │   ├── literature/         # Notes and summaries from relevant literature
-    │   └── preprints/          # Drafts and preprint manuscripts
-    │
-    ├── web/                    # Website and public-facing presence
-    │   ├── public/             # Static assets
-    │   └── src/                # Source code
-    │
-    └── data/                   # Data science and research infrastructure
-        ├── notebooks/          # Exploratory analysis and research notebooks
-        ├── pipelines/          # Repeatable data processing workflows
-        └── outputs/            # Reports, dashboards, and deliverables
+    ├── README.md/                   # Organization documentation and planning
+    
+    ├── LICENSE.md/                   # Organization documentation and planning
+    ├── organization/
+    │   └── charter.md │
+    └── research/
+        └── insurance-privacy/
+                ├── README.md
+                ├── sources/
+                ├── data/
+                │   ├── processed/
+                │   └── intermediate/
+                ├── analysis/
+                ├── outputs/
+                │   └── interactive/
+                ├── codebook/
+                ├── paper/
+                    └── docs/
 
 ---
 ## Planned Repository Structure
