@@ -17,9 +17,9 @@ Documentation
 
 ## Current Repository Structure
     mccr/
-    ├── README.md/                   # Organization documentation and planning
+    ├── README.md/                   
     
-    ├── LICENSE.md/                   # Organization documentation and planning
+    ├── LICENSE.md/                   
     ├── organization/
     │   └── charter.md │
     └── research/
