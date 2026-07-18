@@ -41,6 +41,10 @@ and readability. See individual README files in each subfolder for methodology d
 This phase requires IRB coverage. Currently identifying university partners in Atlanta. 
 See `community-validation/partners/` for outreach notes.
 
+## Data Availability
+
+All documents were accessed from insurer public websites between June 13 and June 17, 2026. Document URLs and access dates are recorded in the project repository. Insurers update privacy terms without prior notice; archived copies of all documents as accessed are available in the repository.
+
 ## Citation
 
 McCray Center for Community Research. Insurance Privacy Policy Analysis. 
