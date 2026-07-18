@@ -1,0 +1,11 @@
+run_timestamp,insurer,state,doc_type,word_count,flesch_kincaid_grade,flesch_reading_ease,smog_index,path
+2026-06-17 00:15:55,Aetna,Georgia,Web Privacy Policy,2650,14.54,32.57,16.25,C:\Users\victo\OneDrive\Desktop\Privacy Policies\Aetna privacy.docx
+2026-06-17 00:15:55,Anthem BCBS,Georgia,HIPAA Notice,3621,9.92,55.09,12.73,C:\Users\victo\OneDrive\Desktop\Privacy Policies\anthem BCBS privacy practices.pdf
+2026-06-17 00:15:55,Anthem BCBS,Georgia,HIPAA Notice (Spanish),3867,12.38,39.93,14.4,C:\Users\victo\OneDrive\Desktop\Privacy Policies\anthem BCBS privacy spanish.pdf
+2026-06-17 00:15:55,Cigna,Georgia,Data Sharing Notice,2060,12.28,41.95,14.18,C:\Users\victo\OneDrive\Desktop\Privacy Policies\Cigna privacy data sharing.docx
+2026-06-17 00:15:55,Cigna,Georgia,Global Health Benefits Notice,2674,11.59,44.16,14.0,C:\Users\victo\OneDrive\Desktop\Privacy Policies\cigna-global-health-benefits-privacy-notice-eng_copy.pdf
+2026-06-17 00:15:55,Cigna,Georgia,HIPAA Notice,3151,14.38,35.48,15.97,C:\Users\victo\OneDrive\Desktop\Privacy Policies\cigna-health-care-and-cigna-supplemental-benefits-privacy-notice-eng_copy.pdf
+2026-06-17 00:15:55,Cigna,Georgia,GLB Notice,1115,16.53,26.19,17.92,C:\Users\victo\OneDrive\Desktop\Privacy Policies\gramm-leach-bliley-act-privacy-notice_copy.pdf
+2026-06-17 00:15:55,Humana,Georgia,HIPAA Notice,2014,12.51,40.88,14.96,C:\Users\victo\OneDrive\Desktop\Privacy Policies\humana privacy practices.pdf
+2026-06-17 00:15:55,UnitedHealthcare,Georgia,Web Privacy Policy,5050,18.42,19.92,18.67,C:\Users\victo\OneDrive\Desktop\Privacy Policies\UHC privacy.docx
+2026-06-17 00:15:55,UnitedHealthcare,Georgia,HIPAA Notice,2578,6.74,67.39,10.23,C:\Users\victo\OneDrive\Desktop\Privacy Policies\united hipaa privacy.pdf
