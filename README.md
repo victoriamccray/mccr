@@ -3,9 +3,19 @@
 MCCR is a trauma-informed health technology and community research initiative focused on increasing self and community agency for people living with chronic illness, repeated trauma, and other high-stress life circumstances. We're building an interpretation layer that helps people understand complex behavioral, cognitive, and physiological signals so they can make more informed decisions about their health and recovery. By combining multimodal assessments with wearable data, MCCR generates explainable compatibility models for peer support, connecting people whose lived experiences, recovery patterns, and support styles are most likely to be mutually beneficial. In parallel, we're conducting AI-assisted research on health insurer privacy policies to examine how patient data flows through consent and third-party sharing, and how those systems shape patient agency for communities facing systemic barriers to care. Our long-term vision is to build community-governed infrastructure that combines trauma-informed care, explainable technology, and collective learning so people are active partners in understanding, improving, and governing the healthcare systems that affect them.
 
 ---
+# McCray Center for Community Research
 
-## Repo Structure
+Mission
 
+Research
+
+Projects
+
+How to contribute
+
+Documentation
+
+## Current Repository Structure
     mccr/
     ├── docs/                   # Organization documentation and planning
     │   ├── mission/            # Mission, vision, values
@@ -25,6 +35,17 @@ MCCR is a trauma-informed health technology and community research initiative fo
         ├── notebooks/          # Exploratory analysis and research notebooks
         ├── pipelines/          # Repeatable data processing workflows
         └── outputs/            # Reports, dashboards, and deliverables
+
+---
+## Planned Repository Structure
+
+The repository will expand over time to include:
+
+- Organizational governance
+- Research frameworks
+- Open datasets
+- Reproducible analysis pipelines
+- Community engagement resources
 
 ---
 
