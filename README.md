@@ -65,8 +65,16 @@ Early stage. Currently building documentation, research framework, and pro bono 
 
 ## Get Involved
 
-This project is in early development. If you work in transitional services in Atlanta and are interested in pro bono data collaboration, reach out. If you are a researcher, clinician, or community member whose work intersects with this mission, please feel free to reach out!
+MCCR is in the early stages of development.
 
+If you are:
+
+- a researcher interested in collaboration,
+- a clinician or community partner,
+- someone with lived experience,
+- or a technologist interested in open science,
+
+I'd love to connect. Reach out to discuss research, partnerships, or ways to contribute as the organization grows.
 ---
 
 ## Contact
@@ -78,7 +86,5 @@ Atlanta, Georgia
 
 - 📖 [Institutional Charter](organization/charter.md)
 - 🔬 [Current Research](research/insurance-privacy/README.md)
-- 🤝 [How to Contribute](CONTRIBUTING.md)
-- 📚 [Documentation](docs/)
-
+- 📚 Documentation
 ---
