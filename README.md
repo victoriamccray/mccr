@@ -86,5 +86,5 @@ Atlanta, Georgia
 
 - 📖 [Institutional Charter](organization/charter.md)
 - 🔬 [Current Research](research/insurance-privacy/README.md)
-- 📚 Documentation
+
 ---
