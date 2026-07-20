@@ -3,11 +3,9 @@
 MCCR is a community-governed health technology and participatory research initiative dedicated to increasing self and community agency for people living with chronic illness, repeated trauma, and other high-stress life circumstances. We're building an interpretation layer that helps people understand complex behavioral, cognitive, and physiological signals so they can make more informed decisions about their health and recovery. By combining multimodal assessments with wearable data, MCCR is developing explainable compatibility models for peer support. The goal is to help identify people whose lived experiences, recovery patterns, and support styles may be well suited for peer support relationships. In parallel, we're conducting AI-assisted research on health insurer privacy policies to examine how patient data flows through consent and third-party sharing, and how those systems shape patient agency for communities facing systemic barriers to care. Our long-term vision is to build community-governed infrastructure that combines community-centered support, explainable technology, and collective learning so people are active partners in understanding, improving, and governing the healthcare systems that affect them.
 
 ---
-# McCray Center for Community Research
 
 
-
-### Current Repository Structure
+## Current Repository Structure
     mccr/
     ├── README.md/                   
     
