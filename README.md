@@ -5,17 +5,9 @@ MCCR is a community-governed health technology and participatory research initia
 ---
 # McCray Center for Community Research
 
-Mission
 
-Research
 
-Projects
-
-How to contribute
-
-Documentation
-
-## Current Repository Structure
+### Current Repository Structure
     mccr/
     ├── README.md/                   
     
@@ -86,9 +78,9 @@ Atlanta, Georgia
 
 ## Learn More
 
-- 📖 Institutional Charter
-- 🔬 Current Research
-- 🤝 How to Contribute
-- 📚 Documentation
+- 📖 [Institutional Charter](organization/charter.md)
+- 🔬 [Current Research](research/insurance-privacy/README.md)
+- 🤝 [How to Contribute](CONTRIBUTING.md)
+- 📚 [Documentation](docs/)
 
 ---
