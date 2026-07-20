@@ -61,7 +61,7 @@ The repository will expand over time to include:
 
 ## The Research Framework
 
-The referred pain hypothesis gives MCCR's community work a neurobiological grounding. Populations we serve are disproportionately people whose stress response systems were calibrated in high prediction error environments, whose pain has been displaced and misattributed, and who carry inflammatory traces of relational trauma. The framework explains mechanistically why these populations present with the overlapping conditions they do. The center aims to empower leveraging evidence-based methods for neuroimmune plasticity and community-based care.
+The referred pain hypothesis gives MCCR's community work a neurobiological grounding. Populations we serve are disproportionately people whose stress response systems were calibrated in high prediction error environments, whose pain has been displaced and misattributed, and who may carry inflammatory traces of relational trauma. The framework explains mechanistically why these populations present with the overlapping conditions they do. The center aims to empower leveraging evidence-based methods for neuroimmune plasticity and community-based care.
 
 See `research/framework/` for working documents.
 
