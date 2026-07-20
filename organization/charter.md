@@ -218,3 +218,7 @@ People affected by the work have meaningful influence over research priorities, 
 ## Scientific humility
 
 MCCR distinguishes between established evidence, plausible interpretations, and active hypotheses, updating models as new evidence emerges.
+
+## Version History
+
+- v1.0 (July 2026) – Initial institutional charter published.
