@@ -10,7 +10,7 @@
 
 The McCray Center for Community Research (MCCR) is a community-governed research and technology institution that advances the collective learning, recovery, and agency of lived experience for chronic pain, repeated trauma, and other high-stress environments.
 
-Through multimodal interpretation, the Explainable Recovery Insights Model helps people understand behavioral, cognitive, physiological, and contextual signals within the context of their recovery. The community-governed learning system allows participants to influence research priorities, algorithm refinement, governance, and knowledge production.
+Through multimodal interpretation, MCCR is developing the Explainable Recovery Insights Model to help people understand behavioral, cognitive, physiological, and contextual signals within the context of their recovery. The community-governed learning system aims to enable participants to influence research priorities, algorithm refinement, governance, and knowledge production.
 
 The institution is intended to close the gap between research, technology, and community action through open science, participatory research, workforce development, and trauma-informed services.
 
@@ -91,7 +91,7 @@ MCCR investigates how chronic illness, trauma, stress, and institutional systems
 Current research priorities include:
 
 - Translating opaque and complex systems into interpretable signals through participatory research.
-- Validating clinical recovery algorithms with individuals who have lived experience.
+- Developing and validating recovery assessment methods through participatory research with people who have lived experience.
 - Investigating how repeated social and institutional stressors influence pain interpretation and behavioral adaptation.
 - Developing explainable technologies that support recovery without replacing human judgment.
 
@@ -103,7 +103,7 @@ Current examples include analyses of health insurer privacy policies to examine 
 
 # 7. Technology Strategy
 
-The platform combines behavioral, cognitive, and physiological signals collected through structured assessments and wearable devices to better understand an individual's recovery trajectory and generate explainable support alignment models for peer connection, recovery resources, and community learning.
+MCCR is developing a platform that combines behavioral, cognitive, and physiological signals collected through structured assessments and wearable devices to better understand an individual's recovery trajectory and generate explainable support alignment models for peer connection, recovery resources, and community learning.
 
 The platform is designed to strengthen recovery by connecting people whose lived experiences, recovery patterns, and support styles are most likely to be mutually beneficial.
 
