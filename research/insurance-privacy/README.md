@@ -47,5 +47,4 @@ All documents were accessed from insurer public websites between June 13 and Jun
 
 ## Citation
 
-McCray Center for Community Research. Insurance Privacy Policy Analysis. 
-Working paper. Atlanta, Georgia. 2026.
+McCray, V. (2026). Barriers to Patient Agency in Health Insurer Privacy Policies: A Document Analysis of Readability, Data Sharing, and Consent Mechanics. https://doi.org/10.31235/osf.io/7hd4m_v1
