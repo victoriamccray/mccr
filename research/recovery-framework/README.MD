@@ -1,5 +1,7 @@
 # Recovery Framework
 
+How do people adapt to pain?
+
 ## Purpose
 
 The Recovery Framework provides a conceptual foundation for understanding how people preserve or regain agency while living with chronic illness, repeated trauma, and other high-stress environments.
