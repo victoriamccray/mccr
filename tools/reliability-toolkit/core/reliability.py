@@ -63,6 +63,18 @@ def _validate_dataframe(
             f"At least {minimum_rows} participant rows are required."
         )
 
+    # Duplicate column names must be checked BEFORE the numeric-dtype check.
+    # Selecting a duplicate-named column (data[column]) returns a DataFrame
+    # instead of a Series, which pd.api.types.is_numeric_dtype treats as
+    # non-numeric. That would surface a confusing TypeError about "invalid
+    # columns" instead of the real, more specific problem: duplicate names.
+    if data.columns.duplicated().any():
+        duplicates = data.columns[data.columns.duplicated()].tolist()
+        duplicate_names = ", ".join(map(str, duplicates))
+        raise ValueError(
+            f"Duplicate item column names are not allowed: {duplicate_names}"
+        )
+
     non_numeric = [
         str(column)
         for column in data.columns
@@ -74,13 +86,6 @@ def _validate_dataframe(
         raise TypeError(
             "All selected item columns must be numeric. "
             f"Invalid columns: {invalid}"
-        )
-
-    if data.columns.duplicated().any():
-        duplicates = data.columns[data.columns.duplicated()].tolist()
-        duplicate_names = ", ".join(map(str, duplicates))
-        raise ValueError(
-            f"Duplicate item column names are not allowed: {duplicate_names}"
         )
 
     values = data.to_numpy(dtype=float, na_value=np.nan)
