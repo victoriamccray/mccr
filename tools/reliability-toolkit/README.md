@@ -1,12 +1,8 @@
-# OpenMeasure — Reliability Toolkit
+# OpenMeasure: Reliability Toolkit
 
-A small web app for computing scale reliability from survey data. Upload a
-CSV, pick your items, get Cronbach's alpha, item diagnostics, and
-plain-language interpretation.
+OpenMeasure is a small researcher-facing web application for evaluating the internal consistency of survey scales. Users can upload a wide-format CSV, select item columns, and receive Cronbach's alpha, item diagnostics, split-half reliability, and plain-language interpretation.
 
-This is v1 of a planned larger project ("Research Methods Lab"), scoped
-deliberately narrow: one statistic, done correctly, well-tested, and
-clearly explained.
+This first release is intentionally narrow: one measurement problem implemented transparently, tested carefully, and documented with its assumptions and limitations.
 
 ## Quickstart
 
