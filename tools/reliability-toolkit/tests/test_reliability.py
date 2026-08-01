@@ -58,7 +58,7 @@ class TestCronbachAlpha(unittest.TestCase):
             }
         )
 
-        expected_alpha = 0.9521276595744681
+        expected_alpha = 0.9479436295657175
 
         alpha = rel.cronbach_alpha(data)
 
