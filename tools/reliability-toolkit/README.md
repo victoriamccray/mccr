@@ -74,7 +74,7 @@ Cronbach's alpha estimates **internal consistency**, or the degree to which a se
 | ≥ 0.50 | Poor |
 | < 0.50 | Unacceptable |
 
-These descriptive labels are commonly used (George & Mallery, 2003), but interpretation should also consider the scale's length, purpose, target population, and the consequences of measurement error.
+These descriptive labels are commonly cited heuristic guidelines (George & Mallery, 2003), but interpretation should also consider the scale's length, purpose, target population, and the consequences of measurement error.
 
 ---
 
@@ -192,3 +192,18 @@ MIT License
 GitHub: https://github.com/victoriamccray
 
 Portfolio: https://victoriamccray.github.io/
+
+
+## References
+
+Brown, W. (1910). *Some experimental results in the correlation of mental abilities.* British Journal of Psychology, 3(3), 296–322.
+
+Cronbach, L. J. (1951). *Coefficient alpha and the internal structure of tests.* Psychometrika, 16(3), 297–334. https://doi.org/10.1007/BF02310555
+
+DeVellis, R. F. (2017). *Scale Development: Theory and Applications* (4th ed.). Sage.
+
+George, D., & Mallery, P. (2003). *SPSS for Windows Step by Step: A Simple Guide and Reference* (4th ed.). Allyn & Bacon.
+
+Nunnally, J. C. (1978). *Psychometric Theory* (2nd ed.). McGraw-Hill.
+
+Spearman, C. (1910). *Correlation calculated from faulty data.* British Journal of Psychology, 3(3), 271–295.
